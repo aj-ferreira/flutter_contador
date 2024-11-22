@@ -11,7 +11,10 @@ Com esse app, os responsáveis por um local podem garantir que o limite de pesso
 Assim, em tempos de pandemia um aplicativo contador não só facilita o gerenciamento de espaços, mas também contribui significativamente para a segurança coletiva, reduzindo os riscos de contágio e ajudando na prevenção da propagação do vírus.
 
 ## Imagens do app:
+### Aparência do app com lotação mínima
 
-![Aparência do app com lotação mínima](./imagens contador/vazio.jpeg)
+![Aparência do app com lotação mínima](https://github.com/aj-ferreira/flutter_contador/blob/main/imagens%20contador/vazio.jpeg)
 
-![Aparência do app com lotação máxima](./imagens contador/cheio.jpeg)
+### Aparência do app com lotação máxima
+
+![Aparência do app com lotação máxima](https://github.com/aj-ferreira/flutter_contador/blob/main/imagens%20contador/cheio.jpeg)
