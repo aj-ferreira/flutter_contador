@@ -2,6 +2,11 @@
 
 Meu primeiro projeto Flutter.
 
+## Feito com
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ## Entenda o app:
 
 Durante a pandemia, a capacidade de controlar o número de pessoas em um ambiente se tornou crucial para manter a segurança e a saúde pública. Um aplicativo contador pode desempenhar um importante papel nesse contexto ao fornecer uma maneira prática e eficiente de monitorar a ocupação de espaços em tempo real. 
